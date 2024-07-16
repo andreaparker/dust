@@ -10,3 +10,4 @@ einops
 trimesh
 tensorboard
 pyglet<2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
