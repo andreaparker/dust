@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.13.0b4-slim
 
 LABEL description="Docker container for DUSt3R with dependencies installed. CPU VERSION"
 
